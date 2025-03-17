@@ -19,3 +19,6 @@ A simple dictionary application built with HTML, CSS, and JavaScript that lets y
 3. **Results:**  
    View the definition, any suggestions, and play the audio (if available).
 
+![Demo](screen-capture.gif)
+
+
